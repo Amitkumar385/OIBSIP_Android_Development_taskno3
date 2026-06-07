@@ -27,9 +27,3 @@ flutter build apk --release
 ```
 
 APK location: `build/app/outputs/flutter-apk/app-release.apk`
-
-## Internship Task Submission
-
-**Developer**: [Your Name]  
-**Institution**: [Your Institution]  
-**Technology Stack**: Flutter (Dart), Material Design 3
